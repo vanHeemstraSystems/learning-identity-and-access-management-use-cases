@@ -1,7 +1,7 @@
 [![Quarto Publish](https://github.com/vanHeemstraSystems/learning-identity-and-access-management-use-cases/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-identity-and-access-management-use-cases/actions/workflows/publish.yml)
 
 learning-identity-and-access-management-use-cases
-# Learning Identity and Access Management Use Cases
+# Learning Identity and Access Management - Use Cases
 
 Part of "Learning - Identity and Access Management" at https://github.com/vanHeemstraSystems/learning-identity-and-access-management
 
