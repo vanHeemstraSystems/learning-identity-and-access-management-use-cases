@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Learning Identity and Access Management - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Identity and Access Management\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Authentication)\n  A[Learner] --&gt; C(UC: Master Authorization)\n  A[Learner] --&gt; D(UC: Master Identity Management)\n  A[Learner] --&gt; E(UC: Master Access Management)\n  B --&gt; F{Abstract UC: Master Identity and Access Management}\n  C --&gt; F{Abstract UC: Master Identity and Access Management}\n  D --&gt; F{Abstract UC: Master Identity and Access Management}\n  E --&gt; F{Abstract UC: Master Identity and Access Management}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Identity and Access Management\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Authentication)\n  A[Learner] --&gt; C(UC: Master Authorization)\n  A[Learner] --&gt; D(UC: Master Identity Management)\n  A[Learner] --&gt; E(UC: Master Access Management)\n  B --&gt; F{Abstract UC: Master Identity and Access Management}\n  C --&gt; F{Abstract UC: Master Identity and Access Management}\n  D --&gt; F{Abstract UC: Master Identity and Access Management}\n  E --&gt; F{Abstract UC: Master Identity and Access Management}\n\n\n\n\n\n\n\nLearning Authentication\nLearning Authorization\nLearning Access Management\nLearning Identity Management"
   },
   {
     "objectID": "authentication.html",
