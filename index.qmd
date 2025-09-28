@@ -20,7 +20,7 @@ flowchart LR
   E --> F{Abstract UC: Master Identity and Access Management}
 ```
 
-- <Learning Authentication|https://github.com/vanHeemstraSystems/learning-authentication>
-- <Learning Authorization|https://github.com/vanHeemstraSystems/learning-authorization>
-- <Learning Access Management|https://github.com/vanHeemstraSystems/learning-access-management>
-- <Learning Identity Management|https://github.com/vanHeemstraSystems/learning-identity-management>
+- [Learning Authentication](https://github.com/vanHeemstraSystems/learning-authentication)
+- [Learning Authorization](https://github.com/vanHeemstraSystems/learning-authorization)
+- [Learning Access Management](https://github.com/vanHeemstraSystems/learning-access-management)
+- [Learning Identity Management](https://github.com/vanHeemstraSystems/learning-identity-management)
