@@ -21,6 +21,6 @@ flowchart LR
 ```
 
 - <Learning Authentication|https://github.com/vanHeemstraSystems/learning-authentication>
-- [Learning Authorization](https://github.com/vanHeemstraSystems/learning-authorization)
-- [Learning Access Management](https://github.com/vanHeemstraSystems/learning-access-management)
-- [Learning Identity Management](https://github.com/vanHeemstraSystems/learning-identity-management)
+- <Learning Authorization|https://github.com/vanHeemstraSystems/learning-authorization>
+- <Learning Access Management|https://github.com/vanHeemstraSystems/learning-access-management>
+- <Learning Identity Management|https://github.com/vanHeemstraSystems/learning-identity-management>
